@@ -7,3 +7,8 @@ TODO:
   * add autotools files to build the project
   * add simple line reader (reads numbers or strings from a stream, one entry per line)
   * add simple aggregators like sum, average, maybe histogram for strings (plain text output)
+
+Maintainer build on Ubuntu
+==========================
+
+  * sudo apt-get install automake autoconf autotools-dev

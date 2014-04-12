@@ -1,13 +1,68 @@
+#######################################################
+# https://github.com/github/gitignore/blob/master/Autotools.gitignore
+
+# http://www.gnu.org/software/automake
+
+Makefile.in
+
+# http://www.gnu.org/software/autoconf
+
+/autom4te.cache
+/aclocal.m4
+/compile
+/configure
+/depcomp
+/install-sh
+/missing
+/stamp-h1
+
+#######################################################
+# https://code.google.com/p/autotools-template/source/browse/.gitignore
+
+Makefile
+/config.status
+/config.log
+/config.h
+/config/
+/config.h.in
+/config.h.in~
+/configure
+# libtool
+.deps
+# *.tar*
+
+#######################################################
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+
 # Compiled Object files
 *.slo
 *.lo
 *.o
+*.obj
 
 # Compiled Dynamic libraries
 *.so
 *.dylib
+*.dll
 
 # Compiled Static libraries
 *.lai
 *.la
 *.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+#######################################################
+# mine
+
+# this is automatically created as a link to README.md
+README
+
+# temporary executable
+/src/hello
+
+# eof
