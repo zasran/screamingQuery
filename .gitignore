@@ -60,9 +60,9 @@ Makefile
 # mine
 
 # this is automatically created as a link to README.md
-README
+/README
 
-# temporary executable
-/src/hello
+# executable
+/src/scry
 
 # eof

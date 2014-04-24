@@ -3,7 +3,7 @@
 AC_PREREQ([2.69])
 AC_INIT([screamingQuery], [0.1], [erik@zasran.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
-AC_CONFIG_SRCDIR([src/main.cc])
+AC_CONFIG_SRCDIR([src/scry.cc])
 AC_CONFIG_HEADERS([config.h])
 
 # Checks for programs.
