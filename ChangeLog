@@ -1,0 +1,8 @@
+1f9d1a3 2014-04-23 fix #3 changed main program name to scry, adjusted autotools files to reflect that | Erik Steffl
+cc4a3be 2014-04-11 fixes #2 autogen.sh now links README.md to README | Erik Steffl
+653e403 2014-04-11 updated README.md with current status | Erik Steffl
+2005829 2014-04-11 fixes #1, .gitignore now ignores autotools files, also added more autotools files | Erik Steffl
+8554312 2014-04-02 Added basic plan to README.txt | Erik Steffl
+5ed1e76 2014-03-28 added hello world main.cc | Erik Steffl
+758ce91 2014-03-21 changed spelling in README.md | Erik Steffl
+39ded3a 2014-03-21 Initial commit | Erik Steffl
